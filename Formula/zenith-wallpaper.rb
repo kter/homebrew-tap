@@ -1,8 +1,8 @@
 class ZenithWallpaper < Formula
   desc "Render the real night sky overhead as your desktop wallpaper"
   homepage "https://github.com/kter/zenith-wallpaper"
-  url "https://github.com/kter/zenith-wallpaper/archive/refs/tags/v1.10.tar.gz"
-  sha256 "5845fbf19984995bf972bd312be92b63b4f9025e54c9d0bc8ca1933a0c86015f"
+  url "https://github.com/kter/zenith-wallpaper/archive/refs/tags/v1.11.tar.gz"
+  sha256 "41be27aaf8d235140d7c70583697ef7a436271fb7feab73e209b42c6c9e0e895"
   license "MIT"
 
   depends_on "go" => :build
